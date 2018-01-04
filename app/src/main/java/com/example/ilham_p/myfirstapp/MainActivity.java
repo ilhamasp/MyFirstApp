@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         //doThis();
 
-        Log.i(TAG, "onCreate");
+        Log.i(TAG, "onCreate Update");
 
         for (int i = 0; i < 3; i++) {
             Log.i(TAG, "onCreate: i=" + i);

@@ -6,5 +6,6 @@ package com.example.ilham_p.myfirstapp;
 
 public class NewClass {
     public NewClass() {
+
     }
 }
